@@ -1,0 +1,7 @@
+# exception_en.yml
+unKnown:
+  code: "-9999"
+  msg: "An unknown error has occurred."
+notFound:
+  code: "-1001"
+  msg: "Not Found data"
